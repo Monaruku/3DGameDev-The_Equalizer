@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66b6af237fe8b148bd31933b29bfe79, type: 3}
+  m_Name: StoryScene1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: In the overworld's realm, a malevolent force, the Demon Lord, orchestrates
+      an insidious invasion.
+  - text: 'To spread their influence, the Demon Lord establishes a series of dungeons
+      that loom ominously across the world. '
+  background: {fileID: 21300000, guid: 4b384cce9d171e24d9bb94b72189a7f7, type: 3}
+  nextScene: {fileID: 11400000, guid: 92d45af285267dd43a838412c9b40354, type: 2}
